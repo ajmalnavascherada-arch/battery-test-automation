@@ -1,0 +1,23 @@
+Battery Analysis Report
+========================
+
+Capacity per Cycle:
+Cycle
+1    0.50
+2    0.47
+3    0.45
+4    0.43
+5    0.40
+
+Efficiency (%):
+ Cycle  Efficiency
+     1   10.000000
+     2   10.638298
+     3   11.111111
+     4   11.627907
+     5   12.500000
+
+Summary:
+Initial Capacity: 0.500 Ah
+Final Capacity: 0.400 Ah
+Capacity Fade: 20.00 %
